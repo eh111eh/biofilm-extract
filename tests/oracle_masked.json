@@ -1,0 +1,472 @@
+{
+ "records": [
+  {
+   "strain": "2125",
+   "temperature_C": 30,
+   "G0_prime_Pa": {
+    "mean": 133,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": 79,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2106",
+   "temperature_C": 30,
+   "G0_prime_Pa": {
+    "mean": 11000,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": 5,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2108",
+   "temperature_C": 30,
+   "G0_prime_Pa": {
+    "mean": 215,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "3610",
+   "temperature_C": 30,
+   "G0_prime_Pa": {
+    "mean": 8000,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "3610",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": 10,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.7,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": true,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2125",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": 13,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.6,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": true,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2108",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.5,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": true,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2109",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.3,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": 121,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2103",
+   "temperature_C": 30,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.23,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2103",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": 0.23,
+    "sd": null,
+    "approximate": true,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2106",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": 4.2,
+    "sd": 1.8,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  },
+  {
+   "strain": "2107",
+   "temperature_C": 50,
+   "G0_prime_Pa": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "tan_delta0": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_y_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "gamma_f_pct": {
+    "mean": null,
+    "sd": null,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   },
+   "WSO_Pa": {
+    "mean": 3.6,
+    "sd": 0.5,
+    "approximate": false,
+    "not_detected": false,
+    "evidence": null
+   }
+  }
+ ]
+}

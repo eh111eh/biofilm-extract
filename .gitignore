@@ -1,0 +1,18 @@
+# The thesis PDF and run outputs (outputs contain text copied from the thesis)
+data/
+out/
+
+# To publish ONLY the score files (they contain short quotes from the thesis),
+# delete the line "out/" above and un-comment these two lines instead:
+# out/*/*/*.json
+# !out/*/*/pred.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets and editor/OS clutter
+.env
+.DS_Store
+.vscode/
